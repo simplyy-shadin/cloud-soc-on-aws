@@ -239,5 +239,6 @@ That’s how you turn from a student… into a real SOC analyst. 🕵️‍♂�
 If you found this project inspiring, don’t forget to star the repo!
 
 Let's connect on 🤝 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/shadin-k-v-cybersecurity)
+
 Read this blog on ✍️ [![Medium](https://img.shields.io/badge/Medium-Read-black?style=flat&logo=medium)](https://medium.com/@shdnkval/️-building-my-own-cloud-soc-from-scratch-on-aws-786f3c5b61e4)
 
